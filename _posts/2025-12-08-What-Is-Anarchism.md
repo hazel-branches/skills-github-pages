@@ -1,6 +1,6 @@
 ---
-title: What is Anarchism?
-date:2025-12-08
+title: "What is Anarchism?"
+date: 2025-12-08
 ---
 I have great and to be perfectly honest somewhat foolhardy ambitions for this blog. But all great journeys start with a single step. My first step is defining a term that is central to my political and personal life, anarchism. It would probably be smart to start with something smaller, but luckily I do not need to provide THE definition of anarchism (arguably the claim that there is a true definition is inherently unanarchist) but rather my definition. There are many anarchists and likely as many anarchisms, spanning from individualist egoist thought, to collectivist, social and even the black (and yellow) sheep of the family, anarcho-capitalism. To me however, anarchism is not fundamentally a political ideology, it is instead a very simple moral and ethical claim: That authority (by which I mean the ability to force or coerce someone to act against their will) must be justified and where it cannot be justified it must be destroyed.
 
